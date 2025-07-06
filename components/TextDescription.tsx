@@ -46,7 +46,7 @@ export default function TextDescription() {
               GET STARTED
             </span>
             <span>
-              <Image src="/vector.svg" alt="logo" width={11} height={6} />
+              <Image src="/gs-icon.svg" alt="logo" width={11} height={6} />
             </span>
           </div>
           <div className="font-figtree text-[12px] font-regular text-white text-center">
