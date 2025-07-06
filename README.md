@@ -2,6 +2,9 @@
 
 This project is a simple, responsive UI design for the Fametonic home page. It is intended as a showcase landing page and does not include backend or dynamic functionality. The project is built using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
+## Live Demo
+[Fame Tonic UI](https://fame-tonic-ui.vercel.app/)
+
 ## Features
 
 - Modern, responsive layout
